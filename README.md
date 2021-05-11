@@ -20,12 +20,10 @@ sudo a2dismod php7.0
 sudo a2dismod php7.1
 
 
-copy file .sh to /usr/local/bin/usephp.8.0
+copy file .sh to /usr/bin/usephp.8.0
 
-permission: sudo chmod +x /usr/local/bin/usephp.8.0
+permission: sudo chmod +x /usr/bin/usephp.8.0
 
 command line: usephp8.0
 
-![Alt text](https://ibb.co/w7L0gJp?raw=true "usephp8.0")
-
-
+![Screenshot](https://ibb.co/w7L0gJp)
