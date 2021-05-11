@@ -26,3 +26,4 @@ permission: sudo chmod +x /usr/bin/usephp.8.0
 
 command line: usephp8.0
 
+![image](https://user-images.githubusercontent.com/38963922/117871932-5fe92f00-b274-11eb-8f85-43ea9caa4a0b.png)
