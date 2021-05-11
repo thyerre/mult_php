@@ -26,4 +26,3 @@ permission: sudo chmod +x /usr/bin/usephp.8.0
 
 command line: usephp8.0
 
-![Screenshot](https://ibb.co/w7L0gJp)
